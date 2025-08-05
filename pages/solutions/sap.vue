@@ -2,11 +2,8 @@
     <div>
       <HeaderNav />
       <HeaderBlock />
-      <NumberSection />
-      <Transform />
-      <Benefits/>
-      <CTABox/>
-      <Approach />
+      <Hero />
+      <Services />
       <Achievements />
       <Subscribe />
        
@@ -30,6 +27,8 @@
   import Transform from '@/components/Products-Components/ManagedAIServices/transform.vue'
   import Achievements from '@/components/Solution-Components/sap/achievements.vue'
   import Subscribe from '@/components/Solution-Components/sap/subscribe.vue'
+  import Hero from '@/components/Solution-Components/sap/hero.vue'
+  import Services from '@/components/Solution-Components/sap/services.vue'
   
    
   
@@ -48,6 +47,8 @@
       Transform,
       Achievements,
       Subscribe,
+      Hero,
+      Services,
     }
   }
   </script>

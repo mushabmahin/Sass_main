@@ -11,3 +11,13 @@
     </section>
   </template>
   
+<script>
+export default {
+  name: 'Subscribe'
+}
+</script>
+
+<style scoped>
+/* Additional custom styles if needed */
+</style>
+  

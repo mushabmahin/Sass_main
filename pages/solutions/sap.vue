@@ -28,8 +28,8 @@
   import Approach from '@/components/Products-Components/ManagedAIServices/approach.vue'
   import Benefits from '@/components/Products-Components/ManagedAIServices/Benefits.vue'
   import Transform from '@/components/Products-Components/ManagedAIServices/transform.vue'
-  import Achievements from  '@/components/Solution-Components/saf/achievements.vue'
-  import Subscribe from  '@/components/Solution-Components/saf/subscribe.vue'
+  import Achievements from '@/components/Solution-Components/sap/achievements.vue'
+  import Subscribe from '@/components/Solution-Components/sap/subscribe.vue'
   
    
   

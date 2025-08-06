@@ -1,7 +1,6 @@
 <template>
     <div>
       <HeaderNav />
-      <HeaderBlock />
       <Hero />
       <Services />
       <Achievements />
